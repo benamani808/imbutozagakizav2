@@ -1,0 +1,6 @@
+{
+  "name": "Family Imbuto Z'Agakiza",
+  "description": "Website and admin portal for Family Imbuto Z'Agakiza Christian ministry in Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
